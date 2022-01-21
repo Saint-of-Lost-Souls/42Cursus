@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Cipher_test"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Standard_functions"
+		}
+	],
+	"settings": {}
+}
